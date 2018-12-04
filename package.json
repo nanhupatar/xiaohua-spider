@@ -1,0 +1,22 @@
+{
+  "name": "xiaohua-spider",
+  "version": "1.0.0",
+  "description": "爬取校花网图片的爬虫",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nanhupatar/xiaohua-spider.git"
+  },
+  "author": "feguide",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nanhupatar/xiaohua-spider/issues"
+  },
+  "homepage": "https://github.com/nanhupatar/xiaohua-spider#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
