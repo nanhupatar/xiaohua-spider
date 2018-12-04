@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/nanhupatar/xiaohua-spider#readme",
   "dependencies": {
+    "iconv-lite": "^0.4.24",
     "request": "^2.88.0"
   }
 }
