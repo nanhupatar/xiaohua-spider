@@ -19,7 +19,9 @@
   "dependencies": {
     "async": "^2.6.1",
     "cheerio": "^1.0.0-rc.2",
+    "fs": "0.0.1-security",
     "iconv-lite": "^0.4.24",
+    "path": "^0.12.7",
     "request": "^2.88.0"
   }
 }
